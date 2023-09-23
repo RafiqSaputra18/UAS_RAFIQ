@@ -2,7 +2,7 @@
    $server = "localhost";
    $username = "root";
    $password = "";
-   $database = "pmb_hanarohaena_uas";
+   $database = "pmb_RafiqSaputra_uas";
 
    $conn = mysqli_connect($server,$username,$password,$database);
 
